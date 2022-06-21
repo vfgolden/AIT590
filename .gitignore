@@ -1,0 +1,7 @@
+.metadata/*
+.recommenders/*
+*.classpath
+*.class
+*.project
+*.txt
+*.prefs
